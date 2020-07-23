@@ -1,0 +1,6 @@
+[submodule "media"]
+	path = media
+	url = git@github.com:YellowFortyFour/ThirtySix-media.git
+[submodule "lib/Godot-Touch-Input-Manager"]
+	path = lib/Godot-Touch-Input-Manager
+	url = git@github.com:Federico-Ciuffardi/Godot-Touch-Input-Manager.git

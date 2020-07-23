@@ -1,0 +1,10 @@
+[gd_scene load_steps=2 format=2]
+
+[ext_resource path="res://Nodes/GCC2D/GCC2D.gd" type="Script" id=1]
+
+[node name="GCC2D" type="Camera2D"]
+rotating = true
+current = true
+script = ExtResource( 1 )
+MAX_ZOOM = 4.0
+movement_gesture = 1
